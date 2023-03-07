@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/jquery": "^3.5.16"
+  },
+  "dependencies": {
+    "@types/react-sparklines": "^1.7.2",
+    "jquery-sparkline": "^2.4.0"
+  }
+}

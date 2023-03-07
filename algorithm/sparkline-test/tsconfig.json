@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+      "target": "ES5",
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "outFile": "./js/test.js",
+      "sourceMap": false,
+      "skipLibCheck": true,
+      "allowJs": true
+  },
+  "include": ["ts/*"]
+}

@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "./js/table.js",
+        "sourceMap": false,
+        "skipLibCheck": true,
+        "allowJs": true
+    },
+    "files": [
+        "js/libraries/jquery.js",
+        "js/libraries/knockout.js",
+        "js/libraries/moment.min.js",
+        "js/libraries/moment-timezone.min.js",
+        "ts/TableModel.ts",
+        "ts/RowModel.ts",
+        "ts/PredictionModel.ts",
+        "ts/Initializer.ts"
+    ]
+}
